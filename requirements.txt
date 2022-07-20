@@ -1,0 +1,9 @@
+pip install azureml.core
+pip install pandas
+pip install azureml
+pip install sklearn.model_selection
+pip install sklearn.linear_model
+pip install sklearn.ensemble
+pip install sklearn.metrics
+pip install numpy
+pip install pickle
